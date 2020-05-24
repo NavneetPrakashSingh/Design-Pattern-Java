@@ -1,4 +1,4 @@
-package Strategy;
+package Behavioral.Strategy;
 
 public class DragonSlayer {
 	IDragonSlayerStrategy dragonStrategy;

@@ -1,4 +1,4 @@
-package Strategy;
+package Behavioral.Strategy;
 
 public class FlyStrategy implements IDragonSlayerStrategy{
 
